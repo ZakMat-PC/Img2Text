@@ -1,6 +1,6 @@
 # LensAI - Portable Deployment Guide
 
-This project is configured to run on any standard Node.js environment, including HuggingFace Spaces, Heroku, or your local machine.
+This project is configured to run on any standard Node.js environment, including your local machine. The project is unfinished.
 
 ## Prerequisites
 
